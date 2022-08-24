@@ -3,6 +3,16 @@ Please do not use UNE for any actual work cause it will not be a good time :)
 
 # Programing in UNE:
 
+```
+= : Initialize plank
++ : Add nail
+v : Punch in nail
+. : Add value of 1 to nail
+, : Remove value of 1 from nail
+p : Read nail
+¤ [Any number between 0-9]{OPERATION}: Do something repeadetly by entered number*10
+```
+
 The only characters in UNE are: "0123456789.,v=p{}+" everything else will be regarded as a comment. Please do note that if you write a comment containing either "v" or "p" it wel execute said action.
 
 UNE is a esoteric programing language desingen in c++.
