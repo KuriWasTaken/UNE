@@ -3,7 +3,7 @@ Please do not use UNE for any actual work cause it will not be a good time :)
 
 # Programing in UNE:
 
-The only characters in UNE are: "0123456789.,v=p{}+" everything else will be regarded as a comment
+The only characters in UNE are: "0123456789.,v=p{}+" everything else will be regarded as a comment. Please do note that if you write a comment containing either "v" or "p" it wel execute said action.
 
 UNE is a esoteric programing language desingen in c++.
 There are planks in UNE, a plank is sort of a array wich can hold 10 different numbers. When creating a new plank the previous one gets deleted for ever!
