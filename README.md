@@ -38,5 +38,5 @@ v -> punch in the nail
 p -> print the value of the current nail
 ```
 
-
+Also do check out the Hello World script provided in the example.une file
 Thank you for taking the time to check out UNE
